@@ -1,0 +1,9 @@
+.doboz{
+    background-color: lightblue;
+}
+
+span {
+  color: darkblue;
+  font-variant: small-caps;
+  font-size: 120%;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caramel&family=Poppins:wght@100;600&display=swap');
+h1 {
+    font-variant: small-caps;
+}
+h2 {
+    font-size: x-large;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.felkover {
+    font-weight: bold;
+    font-size: 110%;
+}
+
+.dolt {
+    font-style: italic;
+}
+
+h1,h2 {
+    font-family: 'Caramel', cursive;
+}

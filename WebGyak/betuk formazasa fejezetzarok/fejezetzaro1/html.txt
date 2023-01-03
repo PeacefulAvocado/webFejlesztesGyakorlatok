@@ -1,0 +1,18 @@
+<div class="doboz">
+<h1>Sakk</h1>
+    
+<p>A sakk táblajáték két személy részére, és egyben sportág is.</p>
+<p>A „sakk” szó – amely nemcsak a játékot jelenti, hanem azt a helyzetet is, amikor az ellenfél királya „ütésben van” – a perzsa „shāh” (شَاه) szóból ered, amely uralkodót jelent.</p>
+</div>
+
+<div>
+<h2>Világbajnokság</h2>
+    
+<p>Az első hivatalos sakkvilágbajnokságot 1886-ban játszották, és <span>Wilhelm Steinitz</span> nyerte. Ezzel ő lett a sportág első világbajnoka.</p>
+<p>2015-ben a norvég <span>Magnus Carlsen</span> a világbajnok, aki 2013-ban, Csennaiban nyerte el a címet az indiai <span>Visuvanátan Ánandtól</span>, és a címét 2014. novemberben Szocsiban az Ánand ellen világbajnoki páros mérkőzésen megvédte.</p>
+<p>A nők között az első sakkvilágbajnokságot 1927-ben rendezték, amelyet <span>Vera Menchik</span> nyert meg. 2015-ben az ukrán <span>Marija Muzicsuk</span> viseli a női világbajnoki címet.</p>
+<p>A bajnokságokat a Nemzetközi Sakkszövetség (FIDE) rendezi meg. </p>
+</div>
+<div>
+<p><strong>Forrás:</strong> https://hu.wikipedia.org/wiki/Sakk</p>
+  </div>
