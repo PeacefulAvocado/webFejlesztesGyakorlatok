@@ -1,0 +1,22 @@
+#inner-container {
+  border:solid 15px darkgreen;
+}
+h1 {
+  text-transform:uppercase;
+  text-align:center;
+}
+h2 {
+  font-variant:small-caps;
+  letter-spacing:1px;
+  text-decoration:underline double darkred;
+}
+p {
+  text-indent:10px;
+  line-height:25px;
+  text-align:justify;
+}
+
+.forras {
+  text-align:right;
+   font-style: italic;
+}
