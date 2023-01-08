@@ -1,0 +1,10 @@
+body {
+  background-image: url(https://cdn.pixabay.com/photo/2020/08/26/18/15/cat-5520233__340.png);
+  /*background-repeat: repeat-x;*/
+  /*background-repeat:repeat-y;*/
+  background-position: right top;
+  /*background-size:cover;*/
+  /*background-size:contain;*/
+  background-size:250px;
+  height: 100vh;
+}

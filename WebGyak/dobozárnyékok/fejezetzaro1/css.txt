@@ -1,0 +1,22 @@
+img {
+  width: 300px;
+  margin:10px;
+}
+
+#img01 {
+  float:left;
+}
+
+#img02 {
+  float:right;
+}
+
+#img03 {
+  margin:0 auto;
+  display:block;
+}
+
+.clear {
+  clear:both;
+  
+}

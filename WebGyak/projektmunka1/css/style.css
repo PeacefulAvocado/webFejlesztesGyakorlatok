@@ -1,8 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Caramel&family=Poppins:wght@100;600&display=swap');
 
+body {
+    background-color: lightgray;
+}
 h1,h2 {
     font-family: 'Caramel', cursive;
     font-variant: small-caps;
+    
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 300%;
+    
+}
+h2 {
+    border-left: solid 2px black;
+    padding-left:5px;
     font-size: xx-large;
+}
+figure {
+    float: right;
+    margin: 0;
+}
+img {
+    width: 300px; 
+    margin: 10px;
+    margin-top: 0px;
+    box-shadow: 3px 3px 10px black;
+}
+figcaption {
+    margin-top: 0;
+    text-align: center;
 }
 

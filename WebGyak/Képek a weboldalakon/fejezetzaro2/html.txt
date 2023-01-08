@@ -1,0 +1,5 @@
+<h1>Illusztrációk tárolóeleme, képaláírás készítése</h1>
+<figure>
+  <img src="https://picsum.photos/id/107/400/300">
+  <figcaption>Lukas Schweizer képe: Green ears of wheat</figcaption>
+</figure>
